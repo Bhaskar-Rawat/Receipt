@@ -1,0 +1,23 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  
+}
+body{
+  display: flex;
+  justify-content: center;
+}
+.logo1{
+  padding: 0px;
+}
+
+table{
+  text-align: left;
+}
+#block{
+  empty-cells: show;
+  height: 24px;
+  
+  
+}
+
